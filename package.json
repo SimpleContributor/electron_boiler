@@ -1,0 +1,16 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "Electron Following Docs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cleebith",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.0"
+  }
+}
